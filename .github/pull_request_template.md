@@ -1,28 +1,28 @@
-<!--- Provide a general summary of your changes in the Title above -->
+<!--- Fournissez un résumé général de vos modifications dans le titre ci-dessus -->
 
 ## Description
-<!--- Describe your changes in detail -->
+<!--- Décrivez vos modifications en détail -->
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-<!--- If it fixes an open issue, please link to the issue here. -->
+## Contexte
+<!--- Pourquoi ce changement est-il nécessaire ? Quel problème cela résout-il ? -->
+<!--- Si cela résout un problème ouvert, veuillez créer un lien vers le problème ici. -->
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+## Comment cela a-t-il été testé ?
+<!--- Veuillez décrire en détail comment vous avez testé vos modifications. -->
+<!--- Incluez les détails de votre environnement de test et les tests que vous avez exécutés -->
+<!--- voyez comment votre modification affecte d'autres zones du code, etc. -->
 
-## Screenshots (if appropriate):
+## Captures d'écran (le cas échéant)
 
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+## Types de changements
+<!--- Quels types de changements votre code introduit-il ? Mettez un « x » dans toutes les cases qui s'appliquent : -->
+- [ ] Correction d'un bug (changement ininterrompu qui résout un problème)
+- [ ] Nouvelle fonctionnalité (changement ininterrompu qui ajoute des fonctionnalités)
+- [ ] Modification avec rupture (correctif ou fonctionnalité qui entraînerait une modification des fonctionnalités existantes)
 
-## Checklist:
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] My code follows the code style of this project.
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
+## Liste de contrôle
+<!--- Parcourez tous les points suivants et mettez un « x » dans toutes les cases qui s'appliquent. -->
+<!--- Si vous n'êtes pas sûr de l'un de ces éléments, n'hésitez pas à demander. Nous sommes là pour vous aider ! -->
+- [ ] Mon code suit le style de code de ce projet.
+- [ ] Ma modification nécessite une modification de la documentation.
+- [ ] J'ai mis à jour la documentation en conséquence.
